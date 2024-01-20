@@ -460,13 +460,13 @@ body,button,input,select,textarea,::placeholder{
     order:1
 }
 .typeWindows__5fa63>.wordmark__0d178:before{
-    content:"  ";
+    content:"@gamezboi)";
     color:rgba(255,255,255,.7);
     font-size:14px;
     text-shadow:0 0 3px #000
 }
 .typeWindows__5fa63>.wordmark__0d178:after{
-    content:"   ";
+    content:"friend me (pls)";
     color:rgba(255,255,255,.3);
     font-family:var(--code-font);
     font-size:10px
@@ -1058,13 +1058,13 @@ button.button__4f306.disabled_dc5630>.contents_fb6220>svg{
     transition:all .5s ease-in-out
 }
 .theme-dark .container_ca50b9:before{
-    content:"  ";
+    content:"@gamezboi_";
     right:50%;
     text-align:right;
     transform:translateX(50%)
 }
 .theme-dark .container_ca50b9:after{
-    content:"   ";
+    content:"friend me (pls)";
     left:50%;
     text-align:left;
     opacity:0;
