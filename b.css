@@ -4,8 +4,6 @@
 @import url("https://raw.githubusercontent.com/gamezboi/uh/main/astt.css");
 @import url('https://nyri4.github.io/Discolored/main.css');
 
-
-
 :root {
   --main-color: #F857FF;
   --hover-color: #FF2BE3;
@@ -23,7 +21,7 @@
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 1000px;
+  --background-blur: 3.5px;
   --background-overlay: rgb(255,0,206,0.07);
   --user-popout-image: transparent;
   --user-popout-position: center;
